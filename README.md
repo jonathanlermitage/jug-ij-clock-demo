@@ -18,4 +18,6 @@ Liens utiles:
 * youtrack IJ: https://youtrack.jetbrains.com/issues/idea
 * obtenir une licence IJ pour du dev opensource: https://www.jetbrains.com/community/opensource/#support
 
-<a href="https://www.meetup.com/fr-FR/montreal-jug/events/281320058"><img src="https://secure.meetupstatic.com/photos/event/9/f/5/f/clean_499360799.jpeg" alt="meetup"></a>
+Vidéo YouTube:  
+
+<a href="https://www.youtube.com/watch?v=9L_ZL3QylDw"><img src="https://secure.meetupstatic.com/photos/event/9/f/5/f/clean_499360799.jpeg" alt="meetup"></a>
