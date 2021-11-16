@@ -1,14 +1,16 @@
-<idea-plugin>
+<idea-plugin require-restart="false">
     <id>jug.clock.demo</id>
     <name>JUG Clock Demo</name>
     <version>REPLACED_BY_GRADLE</version>
     <vendor email="jonathan.lermitage@gmail.com" url="https://github.com/jonathanlermitage">Jonathan Lermitage</vendor>
 
     <description><![CDATA[
+        Un plugin qui affiche l'heure à Montreal.
     ]]>
     </description>
 
     <change-notes><![CDATA[
+        v1
     ]]>
     </change-notes>
 
@@ -20,7 +22,7 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <!-- Add your extensions here -->
+        <statusBarWidgetFactory implementation="jug.ClockStatusBarWidgetFactory" id="jug-clock" order="first" />
     </extensions>
 
     <actions>
